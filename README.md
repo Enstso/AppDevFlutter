@@ -6,3 +6,12 @@ Version 1 15/01/2023 :
 
 ![app1.PNG](app1.PNG)
 
+Version 2 21/01/2023 :
+
+J'ai ajouté à la page principale de mon application mobile, un bouton qui redirige vers une autre page :
+
+![app2.PNG](app2.PNG)
+
+Cette seconde page, contiendra une liste des dates de mes modifications :
+
+![app3.PNG](app3.PNG)
