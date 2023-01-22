@@ -15,3 +15,9 @@ J'ai ajouté à la page principale de mon application mobile, un bouton qui redi
 Cette seconde page, contiendra une liste des dates de mes modifications :
 
 ![app3.PNG](app3.PNG)
+
+Version 3 23/01/2023 :
+
+La seconde page a été modifiée, la liste de mes modifications a bien été ajoutée :
+
+![app4.png](app4.PNG)
