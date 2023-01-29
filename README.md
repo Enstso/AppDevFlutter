@@ -21,3 +21,13 @@ Version 3 23/01/2023 :
 La seconde page a été modifiée, la liste de mes modifications a bien été ajoutée :
 
 ![app4.png](app4.PNG)
+
+Version 4 29/01/2023 :
+
+Une nouvelle barre de navigation a été créee, cela fait que le bouton de la page principale n'est plus nécéssaire. De plus une nouvelle page a été créee, elle pemettra d'ajouter de nouvelles dates. 
+
+![app5.PNG](app5.PNG)
+
+![app6.PNG](app6.PNG)
+
+![app7.PNG](app7.PNG)
