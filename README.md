@@ -2,6 +2,22 @@
 
 Contexte : Dans l'apprentissage, du langage de programmation Dart(Flutter). J'ai coder ma première application mobile front.
 
+### Cas d'utilisation :
+
+```plantuml
+@startuml Appdev
+left to right direction
+:Utilisateur:
+package Appdev{
+    Utilisateur--(Consulter les dates de modifications)
+
+    Utilisateur--(Ajouter des dates de modifications)
+    
+}
+@enduml
+```
+
+
 Version 1 15/01/2023 :
 
 ![app1.PNG](app1.PNG)
